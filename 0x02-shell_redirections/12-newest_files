@@ -1,0 +1,2 @@
+#!/bash/bin
+ls -1t  | tail- n 10
