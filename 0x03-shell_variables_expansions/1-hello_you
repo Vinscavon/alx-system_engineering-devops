@@ -1,2 +1,2 @@
 #!/bin/bash
-hello user~> cat .bash/profile
+echo 'hello $USER'
